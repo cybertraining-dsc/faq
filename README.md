@@ -2,7 +2,7 @@
 
 ## Markdown
 
-### Do I need to use an empty line after an image includion?
+### Do I need to use an empty line after an image inclusion?
 
 Markdown works best if we apply some defualt formating rules. This include the ample use of empty lines to indicate contect switches.
 In general, please use empty lines after each context switch. THis includes:
